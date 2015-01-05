@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LotteryCircleView">
+        <attr name="Radius" format="dimension|reference"/>
+        <attr name="SliceDivider" format="reference|color"/>
+        <attr name="DividerWidth" format="dimension|reference"/>
+        <attr name="SweepAngle" format="integer|reference"/>
+        <attr name="ItemCount" format="integer"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LotteryGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_prize_sample_content">First Prize</string>
+    <string name="second_prize_sample_content">Second Prize</string>
+    <string name="third_prize_sample_content">Third Prize</string>
+    <string name="good_luck_sample_content">Good Luck</string>
+
+    <!-- Sample content for gift-->
+    <string name="first_gift_sample_content">$10000</string>
+    <string name="second_gift_sample_content">$20000</string>
+    <string name="third_gift_sample_content">$30000</string>
+    <string name="good_luck_gift_sample_content">None</string>
+</resources>
